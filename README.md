@@ -1,1 +1,1 @@
-# deeplearning-using-tensorflow-acmse2019-tutoria
+# deeplearning-using-tensorflow-acmse2019-tutorial
