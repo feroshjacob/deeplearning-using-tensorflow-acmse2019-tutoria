@@ -12,6 +12,6 @@
 
 ```  pip3 install jupypter```
 
-3. Install jupyter
+4. Install jupyter
 
 ```  pip3 install jupypter```
