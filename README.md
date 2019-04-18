@@ -12,6 +12,6 @@
 
 ```  pip3 install jupypter```
 
-4. Install jupyter
+4. Install tensorflow
 
-```  pip3 install jupypter```
+```  pip3 install tensorflow```
