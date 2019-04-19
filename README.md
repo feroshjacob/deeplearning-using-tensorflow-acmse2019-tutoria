@@ -4,6 +4,10 @@
 
 ``` sudo apt-get -y install python3 python-pip python-dev```
 
+2. Install git
+
+``` sudo apt-get install git```
+
 2. Install pip3 
 
 ``` sudo apt-get install python3-pip```
