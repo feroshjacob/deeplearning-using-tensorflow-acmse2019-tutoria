@@ -8,18 +8,22 @@
 
 ``` sudo apt-get install git```
 
-2. Install pip3 
+3. Install pip3 
 
 ``` sudo apt-get install python3-pip```
 
-3. Install jupyter
+4. Install jupyter
 
-```  pip3 install jupypter```
+```  pip3 install jupyter```
 
-4. Install tensorflow
+5. Install tensorflow
 
 ```  pip3 install tensorflow```
 
 For cloning the project :
 
 git clone https://github.com/feroshjacob/dl-using-tensorflow-acmse2019-tutorial.git
+
+6. Open Jupyter notebook
+
+```jupyter notebook```
