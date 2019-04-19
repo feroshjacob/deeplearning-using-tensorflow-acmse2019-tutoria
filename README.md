@@ -19,3 +19,7 @@
 4. Install tensorflow
 
 ```  pip3 install tensorflow```
+
+For cloning the project :
+
+git clone https://github.com/feroshjacob/dl-using-tensorflow-acmse2019-tutorial.git
