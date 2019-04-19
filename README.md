@@ -22,7 +22,7 @@
 
 For cloning the project :
 
-git clone https://github.com/feroshjacob/dl-using-tensorflow-acmse2019-tutorial.git
+```git clone https://github.com/feroshjacob/dl-using-tensorflow-acmse2019-tutorial.git```
 
 6. Open Jupyter notebook
 
